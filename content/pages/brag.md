@@ -10,7 +10,7 @@ sections:
         label: Python
         url: ''
       - type: Label
-        label: React
+        label: SQL
         url: ''
       - type: Label
         label: Microsoft Office
