@@ -34,7 +34,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/bg4.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
