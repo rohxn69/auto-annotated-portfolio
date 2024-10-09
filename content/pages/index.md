@@ -29,6 +29,13 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: |+
+      # Hi there! I'm Rohan
+
+
+
+
+
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
