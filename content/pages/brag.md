@@ -28,7 +28,7 @@ sections:
         label: AI Power User
         url: ''
       - type: Label
-        label: Web Design and Deployment
+        label: Web Development
         url: ''
       - type: Label
         label: Et Cetera
