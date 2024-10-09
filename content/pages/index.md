@@ -24,7 +24,7 @@ sections:
         label: Microsoft Office
         url: ''
       - type: Label
-        label: Next.js
+        label: SQL
         url: ''
       - type: Label
         label: Netlify
