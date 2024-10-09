@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 100
 sections:
   - type: HeroSection
-    title: Hi there! I'm Rohan
+    title: ''
     subtitle: ''
     actions:
       - type: Button
@@ -20,7 +20,7 @@ sections:
         url: 'https://rohxn.com/journey/'
         showIcon: true
         icon: ''
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
       - type: Button
@@ -29,7 +29,7 @@ sections:
         url: 'https://rohxn.com/brag/'
         showIcon: true
         icon: ''
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
     colors: colors-f
@@ -55,4 +55,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: |+
+      <div style="text-align: left"># Hi there! I'm Rohan</div>
+
 ---
