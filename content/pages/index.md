@@ -56,6 +56,6 @@ sections:
       actions:
         justifyContent: flex-start
     text: |+
-      <div style="text-align: left"># Hi there! I'm Rohan</div>
+      <div style="text-align: left"># I'm Rohan</div>
 
 ---
