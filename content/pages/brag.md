@@ -25,7 +25,7 @@ sections:
         label: Data Analysis
         url: ''
       - type: Label
-        label: C++
+        label: AI Power User
         url: ''
       - type: Label
         label: Swift
