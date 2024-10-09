@@ -30,7 +30,7 @@ sections:
         label: Automations
         url: ''
       - type: Label
-        label: C++
+        label: AWS Quicksight
         url: ''
     colors: colors-f
     elementId: ''
