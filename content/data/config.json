@@ -69,7 +69,7 @@
             },
             {
                 "type": "Link",
-                "label": "",
+                "label": "Github",
                 "url": "https://github.com/rohxn69",
                 "altText": "Netlify templates",
                 "showIcon": true,
