@@ -15,15 +15,6 @@ sections:
     subtitle: ''
     actions:
       - type: Button
-        label: I like to Brag
-        altText: ''
-        url: 'https://rohxn.com/brag/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
         label: Learn more
         altText: ''
         url: 'https://rohxn.com/journey/'
