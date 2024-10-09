@@ -3,7 +3,7 @@ type: PageLayout
 title: My Journey
 sections:
   - type: HeroSection
-    title: ''
+    title: The Great Journey
     subtitle: 2016 Youtube Vlogger
     text: >+
       <div style="text-align: left">> Ah, the good old days when I started
