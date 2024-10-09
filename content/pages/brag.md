@@ -19,7 +19,7 @@ sections:
         label: Advanced Excel
         url: ''
       - type: Label
-        label: Netlify
+        label: AWS Quicksight
         url: ''
       - type: Label
         label: Pancakes
