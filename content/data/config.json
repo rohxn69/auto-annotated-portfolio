@@ -29,13 +29,6 @@
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
-            },
-            {
-                "type": "Social",
                 "label": "Linkedin",
                 "altText": "",
                 "url": "https://linkedin.com/in/rohanshxtty",
