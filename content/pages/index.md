@@ -1,14 +1,6 @@
 ---
 type: PageLayout
-title: Rohaaaaaaaaaaaaaan
-colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg4.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
+title: Home
 sections:
   - type: HeroSection
     title: ''
@@ -18,18 +10,18 @@ sections:
         label: The Great Journey
         altText: ''
         url: 'https://rohxn.com/journey/'
-        showIcon: true
-        icon: ''
-        iconPosition: left
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
         style: primary
         elementId: ''
       - type: Button
-        label: Brag
+        label: Bragging
         altText: ''
         url: 'https://rohxn.com/brag/'
-        showIcon: true
-        icon: ''
-        iconPosition: left
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
         style: primary
         elementId: ''
     colors: colors-f
@@ -56,6 +48,19 @@ sections:
       actions:
         justifyContent: flex-start
     text: |+
-      <div style="text-align: left"># Hi there! I'm Rohan</div>
+      # Hi there! I'm Rohan
 
+
+
+
+
+addTitleSuffix: true
+colors: colors-a
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 80
 ---
