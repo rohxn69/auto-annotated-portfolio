@@ -55,9 +55,9 @@
     },
     "buttonPrimary": {
         "weight": "normal",
-        "case": "none",
+        "case": "lowercase",
         "letterSpacing": "normal",
-        "horizontalPadding": 20,
+        "horizontalPadding": 22,
         "verticalPadding": 15
     },
     "buttonSecondary": {
