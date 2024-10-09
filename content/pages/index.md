@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: LabelsSection
     title: I'm Rohan
-    subtitle: Umm.. not a show off but I know this
+    subtitle: Umm...not a show off but I know this
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
