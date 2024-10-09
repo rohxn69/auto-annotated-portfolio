@@ -41,13 +41,10 @@ sections:
     variant: variant-b
     title: The Great Journey
     subtitle: YouTube Vlogger
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      Ah, the good old days when I started making YouTube videos and was
+      influenced by Jake Paul and Logan Paul. I still get cringe attacks if I
+      watch that video. Hahaha!
     elementId: ''
     styles:
       self:
