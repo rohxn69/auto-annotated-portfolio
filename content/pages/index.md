@@ -13,7 +13,16 @@ sections:
   - type: HeroSection
     title: Hi there! I'm Rohan
     subtitle: ''
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://rohxn.com/brag/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
