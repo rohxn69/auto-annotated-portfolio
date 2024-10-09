@@ -15,7 +15,7 @@ sections:
     subtitle: Umm...not a show off but I know this
     items:
       - type: Label
-        label: Visual Basic for Application
+        label: Visual Basic for Applications
         url: ''
       - type: Label
         label: React
