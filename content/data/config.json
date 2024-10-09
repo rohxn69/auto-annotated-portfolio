@@ -48,16 +48,7 @@
     },
     "footer": {
         "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Github",
-                "url": "https://github.com/rohxn69",
-                "altText": "Rohan's Github",
-                "showIcon": true,
-                "icon": "github"
-            }
-        ],
+        "primaryLinks": [],
         "copyrightText": "",
         "styles": {
             "self": {
