@@ -41,40 +41,14 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
-  - type: CtaSection
-    title: Website Under ₹999
-    text: |
-      I will create a simple website in ₹999 (No strings attached)
     actions:
       - type: Button
-        label: Contact me
+        label: Website under ₹999
         altText: ''
-        url: /
-        showIcon: true
+        url: 'https://rohxnn.netlify.app/contact-me/'
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 ---
