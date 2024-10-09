@@ -12,7 +12,7 @@ sections:
       YouTube videos, influenced by Jake Paul and Logan Paul. I still get cringe
       attacks whenever I watch that video. Hahaha!</p>
 
-      <hr style="border: 1px solid #ccc; margin: 20px 0;">
+      <hr style="border: 1px solid #ccc; width: 50%; margin: 20px auto;">
 
 
       <h4>2015: The Harlem Shake Dreams</h4>
