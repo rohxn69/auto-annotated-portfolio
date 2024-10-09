@@ -51,39 +51,4 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-  - type: CtaSection
-    title: Website Under ₹999
-    text: |
-      I will create a simple website (No strings attached)
-    actions:
-      - type: Button
-        label: Contact me
-        altText: ''
-        url: 'https://rohxnn.netlify.app/contact-me/'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 ---
