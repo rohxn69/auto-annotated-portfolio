@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Bragging
+title: ''
 sections:
   - type: HeroSection
     title: >-
