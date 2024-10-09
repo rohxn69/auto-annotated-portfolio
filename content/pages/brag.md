@@ -16,7 +16,7 @@ sections:
         label: VBA
         url: ''
       - type: Label
-        label: Next.js
+        label: Advanced Excel
         url: ''
       - type: Label
         label: Netlify
