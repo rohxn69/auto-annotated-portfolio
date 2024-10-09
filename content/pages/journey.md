@@ -6,7 +6,7 @@ sections:
     title: The Great Journey
     subtitle: ''
     text: >
-      <div style="text-align: left">### YouTube Vlogger: 2016</div>
+      <div style="text-align: left">#### YouTube Vlogger: 2016</div>
 
 
       ###### > Ah, the good old days when I started making YouTube videos and
