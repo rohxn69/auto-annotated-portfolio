@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/icons8-watermelon-64.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
