@@ -4,7 +4,7 @@ title: My Journey
 sections:
   - type: HeroSection
     title: The Great Journey
-    subtitle: 2016 Youtube Vlogger
+    subtitle: 'YouTube Vlogger: 2016'
     text: >+
       <div style="text-align: left">> Ah, the good old days when I started
       making YouTube videos and was influenced by Jake Paul and Logan Paul. I
