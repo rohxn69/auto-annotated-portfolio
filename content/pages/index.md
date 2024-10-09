@@ -29,7 +29,7 @@ sections:
         url: 'https://rohxn.com/brag/'
         showIcon: true
         icon: ''
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
     colors: colors-f
