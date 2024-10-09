@@ -7,7 +7,7 @@ sections:
     subtitle: ''
     actions:
       - type: Button
-        label: Learn more
+        label: The Great Journey
         altText: ''
         url: 'https://rohxn.com/journey/'
         showIcon: false
