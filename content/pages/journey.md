@@ -5,29 +5,13 @@ sections:
   - type: HeroSection
     title: The Great Journey
     subtitle: ''
-    text: >
-      <div style="text-align: left">```
+    text: |
+      <div style="text-align: left">
+          <h3>YouTube Vlogger: 2016</h3>
+          <p>Ah, the good old days when I started making YouTube videos, influenced by Jake Paul and Logan Paul. I still get cringe attacks whenever I watch that video. Hahaha!</p>
 
-      <h3>YouTube Vlogger: 2016</h3>
-
-      <p>Ah, the good old days when I started making YouTube videos, influenced
-      by Jake Paul and Logan Paul. I still get cringe attacks whenever I watch
-      that video. Hahaha!</p>
-
-      ```</div>
-
-
-      ```
-
-      <h3>Job 1</h3>
-
-      <p>Reflecting on those early days, I remember how much fun it was to
-      create content. It's funny to think about how far I've come since
-      then!</p>
-
-      ```
-
-
+          <h3>Job 1</h3>
+          <p>Reflecting on those early days, I remember how much fun it was to create content. It's funny to think about how far I've come since then!</p>
       </div>
     actions: []
     colors: colors-f
