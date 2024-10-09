@@ -8,7 +8,11 @@ sections:
       Ah, the good old days when I started making YouTube videos and was
       influenced by Jake Paul and Logan Paul. I still get cringe attacks if I
       watch that video. Hahaha!
-    text: ''
+    text: >+
+      <div style="text-align: left">> Ah, the good old days when I started
+      making YouTube videos and was influenced by Jake Paul and Logan Paul. I
+      still get cringe attacks if I watch that video. Hahaha!</div>
+
     actions: []
     colors: colors-f
     backgroundSize: full
