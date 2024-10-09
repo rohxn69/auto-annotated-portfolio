@@ -4,7 +4,7 @@ title: My Journey
 sections:
   - type: HeroSection
     title: The Great Journey
-    subtitle: 'YouTube Vlogger: 2016'
+    subtitle: ''
     text: >
       <div style="text-align: left">### YouTube Vlogger: 2016</div>
 
