@@ -28,7 +28,7 @@ sections:
         label: AI Power User
         url: ''
       - type: Label
-        label: Swift
+        label: Et Cetera
         url: ''
     colors: colors-f
     elementId: ''
