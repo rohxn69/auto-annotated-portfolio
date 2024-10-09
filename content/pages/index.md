@@ -10,36 +10,45 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 sections:
-  - elementId: ''
+  - type: LabelsSection
+    title: I'm Rohan
+    subtitle: Umm...not a show off but I know this
+    items:
+      - type: Label
+        label: Python
+        url: ''
+      - type: Label
+        label: SQL
+        url: ''
+      - type: Label
+        label: VBA Macro
+        url: ''
+      - type: Label
+        label: Microsoft Office
+        url: ''
+      - type: Label
+        label: Automations
+        url: ''
+      - type: Label
+        label: AWS Quicksight
+        url: ''
+      - type: Label
+        label: 'Data Analysis '
+        url: ''
     colors: colors-f
-    backgroundSize: full
-    title: I'm Rohan.
-    subtitle: ok bye
+    elementId: ''
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-36
-          - pb-48
+          - pb-36
           - pl-4
           - pr-4
-        alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
       title:
         textAlign: left
       subtitle:
         textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
 ---
