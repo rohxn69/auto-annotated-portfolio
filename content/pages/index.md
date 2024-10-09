@@ -48,7 +48,11 @@ sections:
       actions:
         justifyContent: flex-start
     text: |+
-      # Oh hey, you made it!
+
+      Fancy seeing you here!
+
+
+
 
 addTitleSuffix: true
 colors: colors-a
