@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'Fill the form, I will contact you'
+title: Contact me
 sections:
   - type: ContactSection
     title: Contact Me
