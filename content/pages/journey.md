@@ -6,9 +6,18 @@ sections:
     title: The Great Journey
     subtitle: 'YouTube Vlogger: 2016'
     text: >+
-      <div style="text-align: left">> Ah, the good old days when I started
-      making YouTube videos and was influenced by Jake Paul and Logan Paul. I
-      still get cringe attacks if I watch that video. Hahaha!</div>
+      <div style="text-align: left">
+
+      YouTube Vlogger: 2016
+
+
+
+      ### > Ah, the good old days when I started making YouTube videos and was
+      influenced by Jake Paul and Logan Paul. I still get cringe attacks if I
+      watch that video. Hahaha!</div>
+
+
+      ###
 
     actions: []
     colors: colors-f
