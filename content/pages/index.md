@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-c
     backgroundSize: full
     title: >-
       I’m a developer, digital artist, consultant and a bunch of other
@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
