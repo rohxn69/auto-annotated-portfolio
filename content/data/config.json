@@ -45,21 +45,5 @@
                 "width": "full"
             }
         }
-    },
-    "footer": {
-        "type": "Footer",
-        "primaryLinks": [],
-        "copyrightText": "<div style=\"text-align: center\">`Hosted in Github`</div>\n\n",
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-36",
-                    "pb-32",
-                    "pr-36",
-                    "pl-36"
-                ]
-            }
-        }
     }
 }
