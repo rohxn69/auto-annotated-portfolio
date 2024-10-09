@@ -19,7 +19,7 @@ sections:
         label: Bragging
         altText: ''
         url: 'https://rohxn.com/brag/'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
