@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: LabelsSection
     title: I'm Rohan
-    subtitle: 'Umm...not a show off but I know these '
+    subtitle: "Umm...not a show off but I know these \U0001F467 "
     items:
       - type: Label
         label: Python
