@@ -22,7 +22,7 @@ sections:
         label: AWS Quicksight
         url: ''
       - type: Label
-        label: Pancakes
+        label: Data Analysis
         url: ''
       - type: Label
         label: C++
