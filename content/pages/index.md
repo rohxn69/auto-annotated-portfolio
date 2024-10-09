@@ -18,7 +18,7 @@ sections:
         label: Visual Basic for Applications
         url: ''
       - type: Label
-        label: React
+        label: Python
         url: ''
       - type: Label
         label: Microsoft Office
