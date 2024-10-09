@@ -20,7 +20,7 @@ sections:
         url: 'https://rohxn.com/journey/'
         showIcon: true
         icon: ''
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
       - type: Button
@@ -55,7 +55,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: |+
+    text: |
       <div style="text-align: center"># Hi there! I'm Rohan</div>
-
 ---
