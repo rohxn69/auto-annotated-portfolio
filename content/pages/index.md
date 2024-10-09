@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 100
 sections:
   - type: HeroSection
-    title: Et Cetera
+    title: Hi there! I'm Rohan
     subtitle: ''
     actions: []
     colors: colors-f
