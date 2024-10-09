@@ -16,7 +16,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Bragging
         altText: ''
         url: 'https://rohxn.com/brag/'
         showIcon: false
