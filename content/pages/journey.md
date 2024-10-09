@@ -3,7 +3,7 @@ type: PageLayout
 title: My Journey
 sections:
   - type: HeroSection
-    title: 2016 Youtube Vlogger
+    title: ''
     subtitle: >-
       Ah, the good old days when I started making YouTube videos and was
       influenced by Jake Paul and Logan Paul. I still get cringe attacks if I
