@@ -36,67 +36,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: TextSection
-    colors: colors-f
-    variant: variant-b
-    title: The Great Journey
-    subtitle: 'YouTube Vlogger: 2016'
-    text: >+
-      ## Job 1
-
-
-      ##### Ah, the good old days when I started making YouTube videos and was
-      influenced by Jake Paul and Logan Paul. I still get cringe attacks if I
-      watch that video. Hahaha!
-
-
-      ## Job 1
-
-
-      ##### Ah, the good old days when I started making YouTube videos and was
-      influenced by Jake Paul and Logan Paul. I still get cringe attacks if I
-      watch that video. Hahaha!
-
-
-      ## Job 1
-
-
-      ##### Ah, the good old days when I started making YouTube videos and was
-      influenced by Jake Paul and Logan Paul. I still get cringe attacks if I
-      watch that video. Hahaha!
-
-
-      ## Job 1
-
-
-      ##### Ah, the good old days when I started making YouTube videos and was
-      influenced by Jake Paul and Logan Paul. I still get cringe attacks if I
-      watch that video. Hahaha!
-
-
-
-
-
-
-
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
