@@ -51,12 +51,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Email",
-                "url": "mailto:clad-utter-aware@duck.com",
-                "altText": ""
-            },
-            {
-                "type": "Link",
                 "label": "Github",
                 "url": "https://github.com/rohxn69",
                 "altText": "Rohan's Github",
