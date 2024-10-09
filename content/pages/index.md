@@ -15,7 +15,7 @@ sections:
     subtitle: ''
     actions:
       - type: Button
-        label: Learn more
+        label: I like to Brag
         altText: ''
         url: 'https://rohxn.com/brag/'
         showIcon: false
