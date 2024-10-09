@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Website under 999
+        label: Website under ₹999
         altText: ''
         url: 'https://rohxnn.netlify.app/contact-me/'
         showIcon: false
