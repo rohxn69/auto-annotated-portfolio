@@ -54,7 +54,7 @@ sections:
   - type: CtaSection
     title: Website Under ₹999
     text: |
-      I will create a simple website in ₹999 (No strings attached)
+      I will create a simple website (No strings attached)
     actions:
       - type: Button
         label: Contact me
