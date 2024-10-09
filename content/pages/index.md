@@ -24,6 +24,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Contact me
+        altText: ''
+        url: 'mailto:mop-rash-deserving@duck.com'
+        showIcon: true
+        icon: chevronRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
