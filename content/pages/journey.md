@@ -4,10 +4,7 @@ title: My Journey
 sections:
   - type: HeroSection
     title: ''
-    subtitle: >-
-      Ah, the good old days when I started making YouTube videos and was
-      influenced by Jake Paul and Logan Paul. I still get cringe attacks if I
-      watch that video. Hahaha!
+    subtitle: 2016 Youtube Vlogger
     text: >+
       <div style="text-align: left">> Ah, the good old days when I started
       making YouTube videos and was influenced by Jake Paul and Logan Paul. I
