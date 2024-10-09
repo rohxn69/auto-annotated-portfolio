@@ -5,8 +5,8 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "",
-        "isTitleVisible": false,
+        "title": "Home",
+        "isTitleVisible": true,
         "primaryLinks": [],
         "socialLinks": [
             {
