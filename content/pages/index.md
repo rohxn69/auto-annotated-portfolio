@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions: []
   - type: CtaSection
-    title: 'Under '
+    title: Under ₹999
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
