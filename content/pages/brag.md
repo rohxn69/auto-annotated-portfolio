@@ -30,6 +30,9 @@ sections:
       - type: Label
         label: Et Cetera
         url: ''
+      - type: Label
+        label: Web Design and Deployment
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
