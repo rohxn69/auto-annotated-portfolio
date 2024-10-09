@@ -79,7 +79,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "",
             "phoneAltText": "My phone number",
             "email": "clad-utter-aware@duck.com",
             "emailAltText": "My email",
