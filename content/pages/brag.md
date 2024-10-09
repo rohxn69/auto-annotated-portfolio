@@ -4,7 +4,7 @@ title: Bragging
 sections:
   - type: LabelsSection
     title: Rohan Shetty
-    subtitle: "Umm...not a show off but I know these\U0001F447"
+    subtitle: "Umm...not a show off but I know these stuffs\U0001F447"
     items:
       - type: Label
         label: Python
@@ -26,6 +26,9 @@ sections:
         url: ''
       - type: Label
         label: AI Power User
+        url: ''
+      - type: Label
+        label: Web Development
         url: ''
       - type: Label
         label: Et Cetera
