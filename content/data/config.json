@@ -3,7 +3,7 @@
     "favicon": "/images/icons8-watermelon-64.png",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-a",
         "isSticky": true,
         "title": "Home",
         "isTitleVisible": true,
