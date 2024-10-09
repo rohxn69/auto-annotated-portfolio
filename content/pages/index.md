@@ -20,7 +20,7 @@ sections:
         altText: ''
         url: 'https://rohxn.com/brag/'
         showIcon: true
-        icon: arrowRight
+        icon: chevronRight
         iconPosition: right
         style: primary
         elementId: ''
