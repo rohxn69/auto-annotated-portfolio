@@ -32,6 +32,9 @@ sections:
       - type: Label
         label: AWS Quicksight
         url: ''
+      - type: Label
+        label: 'Data Analysis '
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
