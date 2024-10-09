@@ -25,7 +25,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Contact me
+        label: Buzz Me
         altText: ''
         url: 'mailto:mop-rash-deserving@duck.com'
         showIcon: true
