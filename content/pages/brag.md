@@ -3,7 +3,7 @@ type: PageLayout
 title: I'm Rohan
 sections:
   - type: LabelsSection
-    title: Skills
+    title: Rohan Shetty
     subtitle: The section subtitle
     items:
       - type: Label
