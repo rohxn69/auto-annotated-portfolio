@@ -21,7 +21,7 @@ sections:
         label: SQL
         url: ''
       - type: Label
-        label: VBA Macro
+        label: VBA
         url: ''
       - type: Label
         label: Microsoft Office
