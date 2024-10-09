@@ -8,12 +8,7 @@ sections:
     text: |
       <div style="text-align: left">
           <h1>The Great Journey</h1>
-          <hr style="border: 1px solid white; width: 100%; margin: 10px 0;">
-      </div>
-
-      <div style="text-align: left">
-          <h1>The Great Journey</h1>
-          <hr style="border: 1px dashed white; width: 100%; margin: 10px 0;">
+          <hr style="border: 2px double white; width: 75%; margin: 10px 0;">
       </div>
     actions: []
     colors: colors-f
