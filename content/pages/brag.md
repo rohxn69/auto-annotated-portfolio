@@ -7,7 +7,7 @@ sections:
     subtitle: "Umm...not a show off but I know these\U0001F447"
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Python
         url: ''
       - type: Label
         label: React
