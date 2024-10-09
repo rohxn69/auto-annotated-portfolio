@@ -16,6 +16,14 @@
                 "url": "https://linkedin.com/in/rohanshxtty",
                 "icon": "linkedin",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Instagram",
+                "altText": "",
+                "url": "https://www.instagram.com/rohanshxtty/",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
