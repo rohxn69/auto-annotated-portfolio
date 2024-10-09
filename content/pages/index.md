@@ -30,7 +30,7 @@ sections:
         label: Automations
         url: ''
       - type: Label
-        label: Pancakes
+        label: VBA Macro/Automations
         url: ''
       - type: Label
         label: C++
