@@ -29,7 +29,7 @@ sections:
         altText: ''
         url: 'mailto:mop-rash-deserving@duck.com'
         showIcon: true
-        icon: arrowRight
+        icon: chevronRight
         iconPosition: right
         style: primary
         elementId: ''
