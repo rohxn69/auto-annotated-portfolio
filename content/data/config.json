@@ -52,7 +52,7 @@
         "copyrightText": "<div style=\"text-align: center\">`Hosted in Github`</div>\n\n",
         "styles": {
             "self": {
-                "width": "full",
+                "width": "narrow",
                 "padding": [
                     "pt-8",
                     "pb-8",
