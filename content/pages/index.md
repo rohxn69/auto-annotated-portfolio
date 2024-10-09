@@ -4,7 +4,7 @@ title: Rohan
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/featured-Image2.jpg
+  url: /images/bg4.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
