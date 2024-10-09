@@ -30,9 +30,6 @@ sections:
         label: Automations
         url: ''
       - type: Label
-        label: VBA Macro/Automations
-        url: ''
-      - type: Label
         label: C++
         url: ''
     colors: colors-f
