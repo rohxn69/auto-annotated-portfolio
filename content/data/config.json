@@ -76,16 +76,6 @@
                 "icon": "github"
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": ".",
-            "phoneAltText": "hello",
-            "email": "clad-utter-aware@duck.com",
-            "emailAltText": "My email",
-            "address": "Mangalore, India",
-            "addressAltText": "My address"
-        },
         "copyrightText": "",
         "styles": {
             "self": {
