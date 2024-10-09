@@ -48,7 +48,7 @@ sections:
       I will create a simple website in ₹999 (No strings attached)
     actions:
       - type: Button
-        label: Try it now
+        label: Contact me
         altText: ''
         url: /
         showIcon: true
