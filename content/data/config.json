@@ -49,7 +49,7 @@
     "footer": {
         "type": "Footer",
         "primaryLinks": [],
-        "copyrightText": "",
+        "copyrightText": "Hosted in Github\n",
         "styles": {
             "self": {
                 "width": "narrow",
