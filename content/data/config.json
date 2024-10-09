@@ -79,7 +79,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": " ",
+            "phoneNumber": ".",
             "phoneAltText": "",
             "email": "clad-utter-aware@duck.com",
             "emailAltText": "My email",
