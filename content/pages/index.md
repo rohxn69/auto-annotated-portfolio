@@ -27,9 +27,6 @@ sections:
         label: Microsoft Office
         url: ''
       - type: Label
-        label: Automations
-        url: ''
-      - type: Label
         label: AWS Quicksight
         url: ''
       - type: Label
