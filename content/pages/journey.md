@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Journey
+title: My Journey
 sections:
   - type: HeroSection
     title: >-

@@ -5,28 +5,10 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Hi there!",
+        "title": "The great Journey",
         "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Instagram",
-                "label": "Instagram",
-                "url": "https://www.instagram.com/rohanshxtty/",
-                "icon": "instagram"
-            },
             {
                 "type": "Social",
                 "label": "Linkedin",
