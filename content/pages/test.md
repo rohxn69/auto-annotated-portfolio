@@ -3,25 +3,7 @@ type: PageLayout
 title: Empty page
 sections:
   - type: TestimonialsSection
-    testimonials:
-      - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
-        name: John Doe
-        title: CEO at Parks
-        image:
-          type: ImageBlock
-          url: /images/person-2.jpg
-          altText: John Doe
-          caption: Caption of the image
-          elementId: ''
-        elementId: ''
-        styles:
-          name:
-            fontWeight: 400
-          title:
-            fontWeight: 400
+    testimonials: []
     colors: colors-a
     variant: variant-a
     elementId: ''
