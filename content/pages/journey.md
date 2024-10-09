@@ -40,7 +40,7 @@ sections:
     colors: colors-f
     variant: variant-b
     title: The Great Journey
-    subtitle: The section subtitle
+    subtitle: YouTube Vlogger
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
