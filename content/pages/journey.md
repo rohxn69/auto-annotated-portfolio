@@ -41,10 +41,45 @@ sections:
     variant: variant-b
     title: The Great Journey
     subtitle: 'YouTube Vlogger: 2016'
-    text: >
-      Ah, the good old days when I started making YouTube videos and was
+    text: >+
+      ## Job 1
+
+
+      ##### Ah, the good old days when I started making YouTube videos and was
       influenced by Jake Paul and Logan Paul. I still get cringe attacks if I
       watch that video. Hahaha!
+
+
+      ## Job 1
+
+
+      ##### Ah, the good old days when I started making YouTube videos and was
+      influenced by Jake Paul and Logan Paul. I still get cringe attacks if I
+      watch that video. Hahaha!
+
+
+      ## Job 1
+
+
+      ##### Ah, the good old days when I started making YouTube videos and was
+      influenced by Jake Paul and Logan Paul. I still get cringe attacks if I
+      watch that video. Hahaha!
+
+
+      ## Job 1
+
+
+      ##### Ah, the good old days when I started making YouTube videos and was
+      influenced by Jake Paul and Logan Paul. I still get cringe attacks if I
+      watch that video. Hahaha!
+
+
+
+
+
+
+
+
     elementId: ''
     styles:
       self:
