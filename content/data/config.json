@@ -80,7 +80,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": ".",
-            "phoneAltText": "",
+            "phoneAltText": "hello",
             "email": "clad-utter-aware@duck.com",
             "emailAltText": "My email",
             "address": "Mangalore, India",
