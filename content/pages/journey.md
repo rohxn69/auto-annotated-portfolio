@@ -8,11 +8,7 @@ sections:
       Ah, the good old days when I started making YouTube videos and was
       influenced by Jake Paul and Logan Paul. I still get cringe attacks if I
       watch that video. Hahaha!
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: ''
     actions: []
     colors: colors-f
     backgroundSize: full
