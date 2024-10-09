@@ -15,10 +15,10 @@ sections:
     subtitle: Umm...not a show off but I know this
     items:
       - type: Label
-        label: VBA Macro
+        label: Python
         url: ''
       - type: Label
-        label: Python
+        label: VBA Macro
         url: ''
       - type: Label
         label: Microsoft Office
