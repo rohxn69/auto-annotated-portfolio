@@ -51,7 +51,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "Email",
                 "url": "mailto:clad-utter-aware@duck.com",
                 "altText": ""
             },
