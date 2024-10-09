@@ -21,19 +21,19 @@ sections:
         label: SQL
         url: ''
       - type: Label
-        label: VBA Macro
+        label: VBA
         url: ''
       - type: Label
         label: Microsoft Office
-        url: ''
-      - type: Label
-        label: Automations
         url: ''
       - type: Label
         label: AWS Quicksight
         url: ''
       - type: Label
         label: 'Data Analysis '
+        url: ''
+      - type: Label
+        label: AI Power User
         url: ''
     colors: colors-f
     elementId: ''
