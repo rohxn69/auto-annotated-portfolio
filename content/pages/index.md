@@ -48,8 +48,7 @@ sections:
       actions:
         justifyContent: flex-start
     text: |+
-      # Hi there! I'm Rohan
-
+      Oh hey, you made it!
 
 
 
