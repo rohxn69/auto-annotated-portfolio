@@ -41,14 +41,5 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions:
-      - type: Button
-        label: Website under ₹999
-        altText: ''
-        url: 'https://rohxnn.netlify.app/contact-me/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
 ---
