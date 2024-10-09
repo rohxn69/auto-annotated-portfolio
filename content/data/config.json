@@ -54,10 +54,10 @@
             "self": {
                 "width": "narrow",
                 "padding": [
-                    "pt-8",
-                    "pb-8",
-                    "pr-8",
-                    "pl-8"
+                    "pt-36",
+                    "pb-36",
+                    "pr-36",
+                    "pl-36"
                 ]
             }
         }
