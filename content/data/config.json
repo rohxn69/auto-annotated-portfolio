@@ -7,7 +7,18 @@
         "isSticky": false,
         "title": "Hey Hi!",
         "isTitleVisible": true,
-        "primaryLinks": [],
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "The Great Journey",
+                "altText": "",
+                "url": "https://rohxn.com/journey/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
         "socialLinks": [
             {
                 "type": "Social",
