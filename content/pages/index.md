@@ -10,8 +10,8 @@ sections:
         label: The Great Journey
         altText: ''
         url: 'https://rohxn.com/journey/'
-        showIcon: false
-        icon: arrowRight
+        showIcon: true
+        icon: chevronRight
         iconPosition: right
         style: primary
         elementId: ''
@@ -19,8 +19,8 @@ sections:
         label: Bragging
         altText: ''
         url: 'https://rohxn.com/brag/'
-        showIcon: false
-        icon: arrowRight
+        showIcon: true
+        icon: chevronRight
         iconPosition: right
         style: primary
         elementId: ''
@@ -48,11 +48,7 @@ sections:
       actions:
         justifyContent: flex-start
     text: |+
-      # Hi there! I'm Rohan
-
-
-
-
+      # Fancy seeing you here!
 
 addTitleSuffix: true
 colors: colors-a
