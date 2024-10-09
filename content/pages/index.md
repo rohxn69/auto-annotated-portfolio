@@ -35,6 +35,9 @@ sections:
       - type: Label
         label: AI Power User
         url: ''
+      - type: Label
+        label: Et Cetera
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
