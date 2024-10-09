@@ -10,35 +10,30 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 sections:
-  - type: LabelsSection
-    title: I'm Rohan
-    subtitle: "Umm...not a show off but I know these\U0001F447"
-    items:
-      - type: Label
-        label: Python
-        url: ''
-      - type: Label
-        label: SQL
-        url: ''
-      - type: Label
-        label: VBA
-        url: ''
-      - type: Label
-        label: Microsoft Office
-        url: ''
-      - type: Label
-        label: AWS Quicksight
-        url: ''
-      - type: Label
-        label: 'Data Analysis '
-        url: ''
-      - type: Label
-        label: AI Power User
-        url: ''
-      - type: Label
-        label: Et Cetera
-        url: ''
+  - type: HeroSection
+    title: Hi there! I'm Rohan
+    subtitle: ''
+    actions:
+      - type: Button
+        label: The Great Journey
+        altText: ''
+        url: 'https://rohxn.com/journey/'
+        showIcon: true
+        icon: ''
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Brag
+        altText: ''
+        url: 'https://rohxn.com/brag/'
+        showIcon: true
+        icon: ''
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
+    backgroundSize: full
     elementId: ''
     styles:
       self:
@@ -46,13 +41,18 @@ sections:
         width: wide
         padding:
           - pt-36
-          - pb-36
+          - pb-48
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
-        borderRadius: large
+        flexDirection: row
       title:
         textAlign: left
       subtitle:
         textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 ---
