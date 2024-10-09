@@ -11,13 +11,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Instagram",
-                "label": "Instagram",
-                "url": "https://www.instagram.com/rohanshxtty/",
-                "icon": "instagram"
-            },
-            {
-                "type": "Social",
                 "label": "Linkedin",
                 "altText": "",
                 "url": "https://linkedin.com/in/rohanshxtty",
