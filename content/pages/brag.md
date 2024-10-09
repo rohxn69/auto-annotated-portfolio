@@ -28,10 +28,10 @@ sections:
         label: AI Power User
         url: ''
       - type: Label
-        label: Et Cetera
+        label: Web Design and Deployment
         url: ''
       - type: Label
-        label: Web Design and Deployment
+        label: Et Cetera
         url: ''
     colors: colors-f
     elementId: ''
