@@ -35,6 +35,9 @@ sections:
       - type: Label
         label: 'Data Analysis '
         url: ''
+      - type: Label
+        label: AI Power User
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
