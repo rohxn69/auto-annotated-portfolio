@@ -21,10 +21,10 @@ sections:
         label: VBA Macro
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: SQL
         url: ''
       - type: Label
-        label: SQL
+        label: Microsoft Office
         url: ''
       - type: Label
         label: Automations
