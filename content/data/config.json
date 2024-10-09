@@ -72,7 +72,7 @@
                 "label": "GitHub",
                 "url": "https://github.com/rohxn69",
                 "altText": "Netlify templates",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "github"
             }
         ],
