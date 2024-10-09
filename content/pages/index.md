@@ -15,7 +15,7 @@ sections:
     subtitle: Umm...not a show off but I know this
     items:
       - type: Label
-        label: VBA Macro/Automations
+        label: VBA Macro
         url: ''
       - type: Label
         label: Python
