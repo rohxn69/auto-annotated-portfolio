@@ -19,7 +19,7 @@ sections:
         altText: ''
         url: 'https://rohxn.com/journey/'
         showIcon: true
-        icon: play
+        icon: ''
         iconPosition: right
         style: primary
         elementId: ''
