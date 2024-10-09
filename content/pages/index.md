@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 100
 sections:
   - type: HeroSection
-    title: Hi there! I'm Rohan
+    title: ''
     subtitle: ''
     actions:
       - type: Button
