@@ -5,10 +5,9 @@ sections:
   - type: HeroSection
     title: 2016 Youtube Vlogger
     subtitle: >-
-      This is my info — I'm sharing it all this with ya'll to impress you with
-      all the hard work I've done in the past few years. Once you're impressed,
-      you can continue to scroll down to see more details and credentials about
-      me.
+      Ah, good old days when I started to do a youtube video and I was
+      influenced by Jake Paul and Logan Paul. I still get cringe attack if I
+      watch that video. hahah
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
