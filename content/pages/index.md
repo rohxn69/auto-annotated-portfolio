@@ -18,7 +18,7 @@ sections:
         label: The Great Journey
         altText: ''
         url: 'https://rohxn.com/journey/'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
