@@ -18,10 +18,10 @@ sections:
         label: Python
         url: ''
       - type: Label
-        label: VBA Macro
+        label: SQL
         url: ''
       - type: Label
-        label: SQL
+        label: VBA Macro
         url: ''
       - type: Label
         label: Microsoft Office
