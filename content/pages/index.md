@@ -50,7 +50,7 @@ sections:
       - type: Button
         label: Contact me
         altText: ''
-        url: /
+        url: 'https://rohxnn.netlify.app/contact-me/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
