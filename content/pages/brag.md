@@ -3,9 +3,7 @@ type: PageLayout
 title: I'm Rohan
 sections:
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: ''
     subtitle: "Umm...not a show off but I know these\U0001F447"
     actions: []
     colors: colors-f
