@@ -27,7 +27,7 @@ sections:
         label: SQL
         url: ''
       - type: Label
-        label: Netlify
+        label: Automations
         url: ''
       - type: Label
         label: Pancakes
