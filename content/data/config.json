@@ -1,11 +1,11 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/icons8-watermelon-64.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Hello",
+        "title": "Hi there!",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -29,13 +29,6 @@
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
-            },
-            {
-                "type": "Social",
                 "label": "Linkedin",
                 "altText": "",
                 "url": "https://linkedin.com/in/rohanshxtty",
@@ -47,6 +40,12 @@
             "self": {
                 "width": "full"
             }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "altText": "altText of the image",
+            "caption": "Caption of the image",
+            "elementId": ""
         }
     }
 }
