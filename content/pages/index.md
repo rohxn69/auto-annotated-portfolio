@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 100
 sections:
   - type: LabelsSection
-    title: Skills
+    title: I'm Rohan
     subtitle: The section subtitle
     items:
       - type: Label
