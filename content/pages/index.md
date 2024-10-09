@@ -28,7 +28,7 @@ sections:
         label: Contact me
         altText: ''
         url: 'mailto:mop-rash-deserving@duck.com'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
