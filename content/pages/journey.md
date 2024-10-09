@@ -37,7 +37,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: TextSection
-    colors: colors-d
+    colors: colors-f
     variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
