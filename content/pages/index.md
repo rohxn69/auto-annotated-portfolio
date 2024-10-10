@@ -34,7 +34,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: free website
         altText: ''
         url: 'https://rohxn.com/website/'
         showIcon: false
