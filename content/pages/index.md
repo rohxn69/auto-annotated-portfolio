@@ -63,7 +63,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg.jpg
+  url: /images/IMG_7212.JPG
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
