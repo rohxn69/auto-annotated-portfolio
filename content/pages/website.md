@@ -60,7 +60,7 @@ sections:
       text:
         textAlign: left
   - type: CtaSection
-    title: Let's do this
+    title: ''
     text: >
       <h2>How did I host this website for free?</h2>
 
