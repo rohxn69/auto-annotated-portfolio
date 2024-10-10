@@ -99,7 +99,7 @@ sections:
       <hr>
     actions:
       - type: Button
-        label: Get in touch
+        label: Ping me
         altText: ''
         url: 'mailto:rohan@rohxn.com'
         showIcon: true
