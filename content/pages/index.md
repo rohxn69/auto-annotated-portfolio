@@ -28,7 +28,7 @@ sections:
         label: Buzz Me
         altText: ''
         url: 'mailto:mop-rash-deserving@duck.com'
-        showIcon: true
+        showIcon: false
         icon: chevronRight
         iconPosition: right
         style: primary
