@@ -72,7 +72,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/24822252_digital_cyber_particles_background_1407.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
