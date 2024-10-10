@@ -105,7 +105,7 @@ sections:
         showIcon: true
         icon: mail
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
       - type: Link
         label: Learn more
