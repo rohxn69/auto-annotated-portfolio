@@ -38,7 +38,7 @@ sections:
         altText: ''
         url: 'https://rohxn.com/website/'
         showIcon: true
-        icon: arrowRight
+        icon: chevronRight
         iconPosition: right
         style: primary
         elementId: ''
