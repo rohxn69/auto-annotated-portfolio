@@ -25,15 +25,6 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Buzz Me
-        altText: ''
-        url: 'mailto:mop-rash-deserving@duck.com'
-        showIcon: false
-        icon: chevronRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
         label: free website
         altText: ''
         url: 'https://rohxn.com/website/'
