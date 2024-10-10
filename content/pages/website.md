@@ -7,38 +7,38 @@ sections:
     variant: variant-a
     title: ''
     text: >
-      <h1>How did I host this website for free?</h1>
+      <h2>How did I host this website for free?</h2>
 
 
       <hr style="border: 2px double white; width: 75%; margin: 10px 0;">
 
 
-      <p style="font-size: 14px;">
+      <p style="font-size: 16px;">
           Step 1: Buy a domain. Try <i>spaceship.com</i>. It's cheap, and we’re all on a budget.
       </p>
 
-      <p style="font-size: 14px;">
+      <p style="font-size: 16px;">
           Step 2: Sign up for Netlify. It’s free, and who doesn’t love free stuff?
       </p>
 
-      <p style="font-size: 14px;">
+      <p style="font-size: 16px;">
           Step 3: Make a GitHub account to store your files. It sounds fancy, but it’s basically free storage.
       </p>
 
-      <p style="font-size: 14px;">
+      <p style="font-size: 16px;">
           Step 4: Pick a template and customize it... or don’t. Up to you.
       </p>
 
-      <p style="font-size: 14px;">
+      <p style="font-size: 16px;">
           Step 5: Point your domain to Netlify. Basically, just make sure it works!
       </p>
 
 
-      <p style="font-size: 14px;">And boom! Your site is live. Minimal effort,
+      <p style="font-size: 16px;">And boom! Your site is live. Minimal effort,
       maximum result.</p>
 
 
-      <p style="font-size: 14px;">Still confused? I can help—just ask!</p>
+      <p style="font-size: 16px;">Still confused? I can help—just ask!</p>
 
 
       <hr>
