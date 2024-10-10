@@ -99,7 +99,7 @@ sections:
       <hr>
     actions:
       - type: Button
-        label: Try it now
+        label: Still confused?
         altText: ''
         url: /
         showIcon: true
