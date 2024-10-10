@@ -101,7 +101,7 @@ sections:
       - type: Button
         label: Still confused?
         altText: ''
-        url: /
+        url: 'mailto:rohan@rohxn.com'
         showIcon: true
         icon: arrowRight
         iconPosition: right
