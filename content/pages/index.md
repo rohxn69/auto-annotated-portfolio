@@ -7,10 +7,10 @@ sections:
     subtitle: ''
     actions:
       - type: Button
-        label: The Great Journey
+        label: Journey
         altText: ''
         url: 'https://rohxn.com/journey/'
-        showIcon: true
+        showIcon: false
         icon: chevronRight
         iconPosition: right
         style: primary
@@ -19,7 +19,7 @@ sections:
         label: Bragging
         altText: ''
         url: 'https://rohxn.com/brag/'
-        showIcon: true
+        showIcon: false
         icon: chevronRight
         iconPosition: right
         style: primary
@@ -28,6 +28,15 @@ sections:
         label: Buzz Me
         altText: ''
         url: 'mailto:mop-rash-deserving@duck.com'
+        showIcon: false
+        icon: chevronRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: free website
+        altText: ''
+        url: 'https://rohxn.com/website/'
         showIcon: true
         icon: chevronRight
         iconPosition: right
