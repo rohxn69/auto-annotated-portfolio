@@ -99,7 +99,7 @@ sections:
       <hr>
     actions:
       - type: Button
-        label: 'Still confused? '
+        label: Still confused? I can help—just ask!
         altText: ''
         url: 'mailto:rohan@rohxn.com'
         showIcon: true
