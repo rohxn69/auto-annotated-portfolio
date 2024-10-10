@@ -7,9 +7,6 @@ sections:
     variant: variant-a
     title: ''
     text: >
-      <hr>
-
-
       <h1>How did I host this website for free?</h1>
 
 
