@@ -37,7 +37,7 @@ sections:
         label: free website
         altText: ''
         url: 'https://rohxn.com/website/'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
