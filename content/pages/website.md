@@ -2,9 +2,7 @@
 type: PageLayout
 title: Free Website!
 sections:
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
+  - type: CtaSection
     title: ''
     text: >
       <h2>How did I host this website for free?</h2>
@@ -39,9 +37,18 @@ sections:
 
 
       <p style="font-size: 16px;">Still confused? I can help—just ask!</p>
-
-
-      <hr>
+    actions:
+      - type: Button
+        label: Say Hi!
+        altText: ''
+        url: 'mailto:rohan@rohxn.com'
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
     elementId: ''
     styles:
       self:
@@ -52,13 +59,15 @@ sections:
           - pb-28
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
+        flexDirection: row
       title:
-        textAlign: left
-      subtitle:
         textAlign: left
       text:
         textAlign: left
+      actions:
+        justifyContent: flex-start
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
