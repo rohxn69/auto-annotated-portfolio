@@ -103,7 +103,7 @@ sections:
         altText: ''
         url: 'mailto:rohan@rohxn.com'
         showIcon: true
-        icon: arrowRight
+        icon: mail
         iconPosition: right
         style: primary
         elementId: ''
