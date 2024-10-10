@@ -10,7 +10,7 @@ sections:
         label: Journey
         altText: ''
         url: 'https://rohxn.com/journey/'
-        showIcon: true
+        showIcon: false
         icon: chevronRight
         iconPosition: right
         style: primary
