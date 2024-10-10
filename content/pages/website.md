@@ -94,9 +94,6 @@ sections:
 
 
       <p style="font-size: 16px;">Still confused? I can help—just ask!</p>
-
-
-      <hr>
     actions:
       - type: Button
         label: Say Hi!
