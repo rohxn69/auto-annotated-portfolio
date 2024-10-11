@@ -15,7 +15,7 @@ sections:
         url: 'https://cryptpad.fr/file/#/2/file/z9yqddnUoOtftd4kxpZKE59-/p/'
       - type: Label
         label: Passport
-        url: ''
+        url: 'https://cryptpad.fr/file/#/2/file/LCNXx6pFlNrml9EYAWWd6ixn/p/'
     colors: colors-f
     elementId: ''
     styles:
