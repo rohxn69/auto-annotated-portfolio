@@ -12,7 +12,7 @@ sections:
           https://cryptpad.fr/pad/#/2/pad/view/NPSOzbf29i5zYkS30X9cHG0ngtpYt1MjEP+QkFEmaPA/p/
       - type: Label
         label: Adhaar
-        url: ''
+        url: 'https://cryptpad.fr/file/#/2/file/z9yqddnUoOtftd4kxpZKE59-/p/'
     colors: colors-f
     elementId: ''
     styles:
