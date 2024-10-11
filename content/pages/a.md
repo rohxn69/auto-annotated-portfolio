@@ -3,7 +3,7 @@ type: PageLayout
 title: Help Rohaaaaan!
 sections:
   - type: LabelsSection
-    title: Skills
+    title: Personal info
     subtitle: The section subtitle
     items:
       - type: Label
