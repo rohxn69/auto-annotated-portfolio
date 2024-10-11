@@ -9,7 +9,7 @@ sections:
       - type: Label
         label: About
         url: >-
-          https://cryptpad.fr/pad/#/2/pad/view/NPSOzbf29i5zYkS30X9cHG0ngtpYt1MjEP+QkFEmaPA/p/
+          https://cryptpad.fr/pad/#/2/pad/view/ugQsxKPHO+fhf62EwroKn3B1fn3VQlHBwMUdgzsHfsU/p/
       - type: Label
         label: Adhaar
         url: 'https://cryptpad.fr/file/#/2/file/z9yqddnUoOtftd4kxpZKE59-/p/'
