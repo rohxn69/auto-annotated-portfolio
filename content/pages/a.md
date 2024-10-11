@@ -11,7 +11,7 @@ sections:
         url: >-
           https://cryptpad.fr/pad/#/2/pad/view/NPSOzbf29i5zYkS30X9cHG0ngtpYt1MjEP+QkFEmaPA/p/
       - type: Label
-        label: Netlify
+        label: Adhaar
         url: ''
     colors: colors-f
     elementId: ''
