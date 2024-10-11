@@ -7,9 +7,33 @@ sections:
     variant: variant-a
     title: This in an empty page
     subtitle: The section subtitle
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      <!DOCTYPE html>
+      <html lang="en">
+      <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Password Protected Page</title>
+          <script>
+              function checkPassword() {
+                  const password = document.getElementById("password").value;
+                  const correctPassword = "mypassword";  // Replace with your desired password
+
+                  if (password === correctPassword) {
+                      // Redirect to the protected page
+                      window.location.href = "protected.html"; // Your protected page
+                  } else {
+                      alert("Incorrect password! Please try again.");
+                  }
+              }
+          </script>
+      </head>
+      <body>
+          <h2>Enter Password to Access Content</h2>
+          <input type="password" id="password" placeholder="Enter Password">
+          <button onclick="checkPassword()">Submit</button>
+      </body>
+      </html>
     elementId: ''
     styles:
       self:
