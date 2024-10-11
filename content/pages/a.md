@@ -4,7 +4,7 @@ title: Help Rohaaaaan!
 sections:
   - type: LabelsSection
     title: Personal info
-    subtitle: The section subtitle
+    subtitle: 'password hint: my first cat name'
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
