@@ -34,7 +34,7 @@ sections:
         textAlign: left
 addTitleSuffix: true
 metaTags: []
-colors: colors-c
+colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
