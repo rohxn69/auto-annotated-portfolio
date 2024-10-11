@@ -7,7 +7,7 @@ sections:
     subtitle: 'password hint: my first cat name'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: About
         url: ''
       - type: Label
         label: React
