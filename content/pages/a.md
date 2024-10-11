@@ -3,7 +3,7 @@ type: PageLayout
 title: Help Rohaaaaan!
 sections:
   - type: LabelsSection
-    title: Personal info
+    title: 'Personal info [critical data]'
     subtitle: 'password hint: my first cat name'
     items:
       - type: Label
