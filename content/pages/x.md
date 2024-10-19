@@ -2,9 +2,45 @@
 type: PageLayout
 title: SPD EMERGENCY!
 sections:
+  - type: CtaSection
+    title: Am I unconscious?
+    text: |
+      password hint: tattoo on my forearm
+    actions:
+      - type: Button
+        label: Emergency contact
+        altText: ''
+        url: >-
+          https://cryptpad.fr/pad/#/2/pad/view/pEYbU87kkmrbuggq2Dycf-HPUIwn6znthgznle+2zdc/p/
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        textAlign: center
+      text:
+        textAlign: center
+      actions:
+        justifyContent: center
   - type: LabelsSection
     title: '[confidential data]'
-    subtitle: 'password hint: my first cat name'
+    subtitle: 'password hint: my first carr name'
     items:
       - type: Label
         label: About
