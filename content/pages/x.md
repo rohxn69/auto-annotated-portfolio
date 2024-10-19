@@ -93,7 +93,8 @@ sections:
       - type: Button
         label: 'password hint: tattoo on my forearm'
         altText: ''
-        url: ''
+        url: >-
+          https://cryptpad.fr/pad/#/2/pad/view/pEYbU87kkmrbuggq2Dycf-HPUIwn6znthgznle+2zdc/p/
         showIcon: true
         icon: arrowRight
         iconPosition: right
