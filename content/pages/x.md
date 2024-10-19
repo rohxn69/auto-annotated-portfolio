@@ -9,7 +9,7 @@ sections:
       Click below for emergency contact number
     actions:
       - type: Button
-        label: Click here for emergency contact
+        label: 'password hint: tattoo on my forearm'
         altText: ''
         url: >-
           https://cryptpad.fr/pad/#/2/pad/view/pEYbU87kkmrbuggq2Dycf-HPUIwn6znthgznle+2zdc/p/
