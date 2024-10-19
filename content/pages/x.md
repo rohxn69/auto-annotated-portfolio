@@ -4,9 +4,7 @@ title: SPD EMERGENCY!
 sections:
   - type: CtaSection
     title: Am I unconscious?
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: ''
     actions:
       - type: Button
         label: Emergency contact
