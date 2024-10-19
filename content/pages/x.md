@@ -15,7 +15,7 @@ sections:
           https://cryptpad.fr/pad/#/2/pad/view/pEYbU87kkmrbuggq2Dycf-HPUIwn6znthgznle+2zdc/p/
         showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
     colors: colors-f
