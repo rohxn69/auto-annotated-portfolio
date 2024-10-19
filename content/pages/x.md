@@ -93,7 +93,7 @@ sections:
       - type: Button
         label: 'password hint: tattoo on my forearm'
         altText: ''
-        url: /
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
