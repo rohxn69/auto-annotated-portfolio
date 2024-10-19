@@ -4,7 +4,8 @@ title: SPD EMERGENCY!
 sections:
   - type: CtaSection
     title: Am I unconscious?
-    text: ''
+    text: |
+      password hint: tattoo in my forearm
     actions:
       - type: Button
         label: Emergency contact
