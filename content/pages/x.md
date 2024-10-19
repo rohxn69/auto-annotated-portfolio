@@ -12,7 +12,7 @@ sections:
         url: >-
           https://cryptpad.fr/pad/#/2/pad/view/pEYbU87kkmrbuggq2Dycf-HPUIwn6znthgznle+2zdc/p/
         showIcon: true
-        icon: arrowLeft
+        icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
