@@ -85,9 +85,10 @@ sections:
         textAlign: left
   - type: CtaSection
     title: Am I unconscious?
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |+
+
+      Tap the button below for emergency contact
+
     actions:
       - type: Button
         label: Try it now
