@@ -9,7 +9,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Click her to contact my home
+        label: Emergency contact
         altText: ''
         url: >-
           https://cryptpad.fr/pad/#/2/pad/view/pEYbU87kkmrbuggq2Dycf-HPUIwn6znthgznle+2zdc/p/
