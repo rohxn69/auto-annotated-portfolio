@@ -39,6 +39,19 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: LabelsSection
     title: '[confidential data]'
     subtitle: 'password hint: my first carr name'
@@ -69,19 +82,6 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
 addTitleSuffix: true
 metaTags: []
 colors: colors-a
