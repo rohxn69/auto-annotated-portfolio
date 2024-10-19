@@ -5,7 +5,8 @@ sections:
   - type: CtaSection
     title: Am I unconscious?
     text: |
-      password hint: tattoo on my forearm
+
+      Click below for emergency contact number
     actions:
       - type: Button
         label: Click here for emergency contact
