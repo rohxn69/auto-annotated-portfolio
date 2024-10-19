@@ -5,7 +5,7 @@ sections:
   - type: CtaSection
     title: Am I unconscious?
     text: |
-      Password hint: tattoo on my forearm
+      password hint: tattoo on my forearm
     actions:
       - type: Button
         label: Emergency contact
