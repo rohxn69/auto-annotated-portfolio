@@ -9,7 +9,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: Click her to contact my home
         altText: ''
         url: /
         showIcon: true
