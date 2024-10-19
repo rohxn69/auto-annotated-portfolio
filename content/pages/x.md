@@ -8,7 +8,7 @@ sections:
       password hint: tattoo on my forearm
     actions:
       - type: Button
-        label: Click here to emergency contact
+        label: Click here for emergency contact
         altText: ''
         url: >-
           https://cryptpad.fr/pad/#/2/pad/view/pEYbU87kkmrbuggq2Dycf-HPUIwn6znthgznle+2zdc/p/
