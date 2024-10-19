@@ -11,7 +11,8 @@ sections:
       - type: Button
         label: Click her to contact my home
         altText: ''
-        url: /
+        url: >-
+          https://cryptpad.fr/pad/#/2/pad/view/pEYbU87kkmrbuggq2Dycf-HPUIwn6znthgznle+2zdc/p/
         showIcon: true
         icon: arrowRight
         iconPosition: right
