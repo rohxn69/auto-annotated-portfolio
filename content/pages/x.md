@@ -91,7 +91,7 @@ sections:
 
     actions:
       - type: Button
-        label: Try it now
+        label: 'password hint: tattoo on my forearm'
         altText: ''
         url: /
         showIcon: true
