@@ -40,7 +40,7 @@ sections:
         justifyContent: center
   - type: LabelsSection
     title: '[confidential data]'
-    subtitle: 'password hint: my first cat name'
+    subtitle: 'password hint: my first carr name'
     items:
       - type: Label
         label: About
