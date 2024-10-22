@@ -7,15 +7,6 @@ sections:
     subtitle: ''
     actions:
       - type: Button
-        label: Journey
-        altText: ''
-        url: 'https://rohxn.com/journey/'
-        showIcon: false
-        icon: chevronRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
         label: Bragging
         altText: ''
         url: 'https://rohxn.com/brag/'
