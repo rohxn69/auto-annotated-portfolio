@@ -4,7 +4,7 @@ title: Thanks for helping me
 sections:
   - type: LabelsSection
     title: Appreciate your help; I promise you'll be rewarded
-    subtitle: You can get in touch with below details
+    subtitle: You can get in touch with below details.
     items:
       - type: Label
         label: Call me +91 8088593510
