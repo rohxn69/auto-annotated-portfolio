@@ -100,7 +100,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Learn more
+        label: Adhaar
         altText: ''
         url: 'https://cryptpad.fr/file/#/2/file/z9yqddnUoOtftd4kxpZKE59-/p/'
         showIcon: true
