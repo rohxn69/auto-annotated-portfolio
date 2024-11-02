@@ -38,7 +38,7 @@ sections:
         url: 'tel:919844737526'
       - type: Label
         label: Instagram
-        url: ''
+        url: 'https://www.instagram.com/rohanshxtty/'
     colors: colors-f
     elementId: ''
     styles:
