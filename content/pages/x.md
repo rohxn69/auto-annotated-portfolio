@@ -107,6 +107,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://cryptpad.fr/file/#/2/file/LCNXx6pFlNrml9EYAWWd6ixn/p/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
