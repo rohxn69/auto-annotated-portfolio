@@ -85,7 +85,7 @@ sections:
         textAlign: left
   - type: LabelsSection
     title: '[confidential data]'
-    subtitle: The section subtitle
+    subtitle: 'password hint: my first carr name'
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
