@@ -90,7 +90,7 @@ sections:
 
     actions:
       - type: Button
-        label: Try it now
+        label: About
         altText: ''
         url: >-
           https://cryptpad.fr/pad/#/2/pad/view/ugQsxKPHO+fhf62EwroKn3B1fn3VQlHBwMUdgzsHfsU/p/
