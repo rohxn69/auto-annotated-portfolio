@@ -84,7 +84,7 @@ sections:
       subtitle:
         textAlign: left
   - type: LabelsSection
-    title: Skills
+    title: '[confidential data]'
     subtitle: The section subtitle
     items:
       - type: Label
