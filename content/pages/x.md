@@ -99,14 +99,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-      - type: Link
-        label: Adhaar
-        altText: ''
-        url: 'https://cryptpad.fr/file/#/2/file/z9yqddnUoOtftd4kxpZKE59-/p/'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
       - type: Button
         label: Learn more
         altText: ''
