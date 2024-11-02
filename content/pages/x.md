@@ -93,7 +93,7 @@ sections:
           https://cryptpad.fr/pad/#/2/pad/view/ugQsxKPHO+fhf62EwroKn3B1fn3VQlHBwMUdgzsHfsU/p/
       - type: Label
         label: Adhaar
-        url: ''
+        url: 'https://cryptpad.fr/file/#/2/file/z9yqddnUoOtftd4kxpZKE59-/p/'
       - type: Label
         label: Microsoft Office
         url: ''
