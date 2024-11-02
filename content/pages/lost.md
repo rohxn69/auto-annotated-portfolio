@@ -27,7 +27,7 @@ sections:
       text:
         textAlign: left
   - type: LabelsSection
-    title: Skills
+    title: Hey Thank you so much for trying to return my stuffs!
     subtitle: The section subtitle
     items:
       - type: Label
