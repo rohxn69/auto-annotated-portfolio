@@ -7,9 +7,8 @@ sections:
     variant: variant-a
     title: Hey Thank you so much for trying to return my stuffs!
     subtitle: ''
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      You can get in touch with me via phone +91 8088593510
     elementId: ''
     styles:
       self:
