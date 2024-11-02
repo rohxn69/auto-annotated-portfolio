@@ -92,7 +92,8 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: >-
+          https://cryptpad.fr/pad/#/2/pad/view/ugQsxKPHO+fhf62EwroKn3B1fn3VQlHBwMUdgzsHfsU/p/
         showIcon: true
         icon: arrowRight
         iconPosition: right
