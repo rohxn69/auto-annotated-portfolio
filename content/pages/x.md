@@ -95,7 +95,7 @@ sections:
         label: Adhaar
         url: 'https://cryptpad.fr/file/#/2/file/z9yqddnUoOtftd4kxpZKE59-/p/'
       - type: Label
-        label: Microsoft Office
+        label: Passport
         url: ''
       - type: Label
         label: Next.js
