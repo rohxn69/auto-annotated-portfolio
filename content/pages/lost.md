@@ -36,6 +36,9 @@ sections:
       - type: Label
         label: Call me also at +91 9844737526
         url: 'tel:919844737526'
+      - type: Label
+        label: Instagram
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
