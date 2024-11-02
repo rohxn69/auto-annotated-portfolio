@@ -102,7 +102,7 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: /
+        url: 'https://cryptpad.fr/file/#/2/file/z9yqddnUoOtftd4kxpZKE59-/p/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
