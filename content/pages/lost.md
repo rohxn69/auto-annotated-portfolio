@@ -36,9 +36,6 @@ sections:
       - type: Label
         label: React
         url: ''
-      - type: Label
-        label: C++
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
