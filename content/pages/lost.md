@@ -41,7 +41,7 @@ sections:
         url: 'https://www.instagram.com/rohanshxtty/'
       - type: Label
         label: Email
-        url: ''
+        url: 'mailto:bovine-woozy-tutor@duck.com'
     colors: colors-f
     elementId: ''
     styles:
