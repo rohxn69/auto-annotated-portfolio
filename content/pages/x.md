@@ -75,7 +75,7 @@ sections:
     subtitle: Tap the button below for emergency contact
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: 'password hint: tattoo on my forearm'
         url: ''
       - type: Label
         label: C++
