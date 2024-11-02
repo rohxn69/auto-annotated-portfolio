@@ -97,9 +97,6 @@ sections:
       - type: Label
         label: Passport
         url: ''
-      - type: Label
-        label: Swift
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
