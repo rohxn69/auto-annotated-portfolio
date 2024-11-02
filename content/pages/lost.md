@@ -28,7 +28,7 @@ sections:
         textAlign: left
   - type: LabelsSection
     title: Hey Thank you so much for trying to return my stuffs!
-    subtitle: The section subtitle
+    subtitle: You can get in touch with below details
     items:
       - type: Label
         label: Call me +91 8088593510
