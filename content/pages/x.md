@@ -83,61 +83,6 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: CtaSection
-    title: '[confidential data]'
-    text: |+
-      password hint: my first carr name
-
-    actions:
-      - type: Button
-        label: About
-        altText: ''
-        url: >-
-          https://cryptpad.fr/pad/#/2/pad/view/ugQsxKPHO+fhf62EwroKn3B1fn3VQlHBwMUdgzsHfsU/p/
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
-        label: Passport
-        altText: ''
-        url: 'https://cryptpad.fr/file/#/2/file/LCNXx6pFlNrml9EYAWWd6ixn/p/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
-        label: Adhaar
-        altText: ''
-        url: 'https://cryptpad.fr/file/#/2/file/z9yqddnUoOtftd4kxpZKE59-/p/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 addTitleSuffix: true
 metaTags: []
 colors: colors-a
