@@ -111,7 +111,7 @@ sections:
       - type: Button
         label: Adhaar
         altText: ''
-        url: 'https://cryptpad.fr/file/#/2/file/LCNXx6pFlNrml9EYAWWd6ixn/p/'
+        url: 'https://cryptpad.fr/file/#/2/file/z9yqddnUoOtftd4kxpZKE59-/p/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
