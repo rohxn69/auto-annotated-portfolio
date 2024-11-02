@@ -3,7 +3,7 @@ type: PageLayout
 title: Thanks for helping me
 sections:
   - type: LabelsSection
-    title: Hey Thank you so much for trying to return my stuffs!
+    title: Appreciate your help
     subtitle: You can get in touch with below details
     items:
       - type: Label
