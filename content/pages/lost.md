@@ -35,7 +35,7 @@ sections:
         url: 'tel:8088593510'
       - type: Label
         label: Call me also at +91 9844737526
-        url: ''
+        url: 'tel:919844737526'
     colors: colors-f
     elementId: ''
     styles:
