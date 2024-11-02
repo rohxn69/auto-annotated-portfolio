@@ -78,9 +78,6 @@ sections:
         label: 'WEB 1, 2, 3'
         url: ''
       - type: Label
-        label: Next.js
-        url: ''
-      - type: Label
         label: Netlify
         url: ''
       - type: Label
