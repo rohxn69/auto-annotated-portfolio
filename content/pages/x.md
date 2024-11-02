@@ -100,7 +100,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Passport
         altText: ''
         url: 'https://cryptpad.fr/file/#/2/file/LCNXx6pFlNrml9EYAWWd6ixn/p/'
         showIcon: false
