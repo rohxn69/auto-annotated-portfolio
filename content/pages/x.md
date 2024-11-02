@@ -85,9 +85,9 @@ sections:
         textAlign: left
   - type: CtaSection
     title: '[confidential data]'
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |+
+      password hint: my first carr name
+
     actions:
       - type: Button
         label: Try it now
