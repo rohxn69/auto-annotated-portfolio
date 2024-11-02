@@ -34,7 +34,7 @@ sections:
         label: Call me +91 8088593510
         url: 'tel:8088593510'
       - type: Label
-        label: React
+        label: Call me also at +91 9844737526
         url: ''
     colors: colors-f
     elementId: ''
