@@ -72,7 +72,7 @@ sections:
         textAlign: left
   - type: LabelsSection
     title: Am I unconscious?
-    subtitle: The section subtitle
+    subtitle: Tap the button below for emergency contact
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
