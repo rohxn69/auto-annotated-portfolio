@@ -32,7 +32,7 @@ sections:
     items:
       - type: Label
         label: Call me +91 8088593510
-        url: ''
+        url: 'tel:8088593510'
       - type: Label
         label: React
         url: ''
