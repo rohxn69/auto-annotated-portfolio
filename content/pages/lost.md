@@ -39,6 +39,9 @@ sections:
       - type: Label
         label: Instagram
         url: 'https://www.instagram.com/rohanshxtty/'
+      - type: Label
+        label: Email
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
