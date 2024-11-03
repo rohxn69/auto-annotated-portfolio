@@ -26,6 +26,17 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - type: LabelsSection
     title: found my item?
     subtitle: You can get in touch with below details; You will get a reward.
@@ -58,17 +69,6 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-36
-          - pb-36
-        justifyContent: center
-        borderWidth: 1
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
