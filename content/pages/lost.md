@@ -3,8 +3,32 @@ type: PageLayout
 title: Thanks for helping me
 sections:
   - type: LabelsSection
-    title: Appreciate your help; I promise you'll be rewarded
-    subtitle: You can get in touch with below details.
+    title: EMERGENCY!?
+    subtitle: Tap the button below for emergency contact
+    items:
+      - type: Label
+        label: 'password hint: tattoo on my forearm'
+        url: >-
+          https://cryptpad.fr/pad/#/2/pad/view/pEYbU87kkmrbuggq2Dycf-HPUIwn6znthgznle+2zdc/p/
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+  - type: LabelsSection
+    title: found my item?
+    subtitle: You can get in touch with below details; You will get a reward.
     items:
       - type: Label
         label: Call me +91 8088593510
