@@ -28,7 +28,7 @@ sections:
         textAlign: left
   - type: LabelsSection
     title: found my item?
-    subtitle: You can get in touch with below details.
+    subtitle: You can get in touch with below details; You will get a ew
     items:
       - type: Label
         label: Call me +91 8088593510
