@@ -8,7 +8,8 @@ sections:
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
-        url: ''
+        url: >-
+          https://cryptpad.fr/pad/#/2/pad/view/pEYbU87kkmrbuggq2Dycf-HPUIwn6znthgznle+2zdc/p/
       - type: Label
         label: React
         url: ''
