@@ -3,7 +3,7 @@ type: PageLayout
 title: Thanks for helping me
 sections:
   - type: LabelsSection
-    title: Skills
+    title: EMERGENCY?
     subtitle: The section subtitle
     items:
       - type: Label
