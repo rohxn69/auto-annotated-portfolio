@@ -27,7 +27,7 @@ sections:
       subtitle:
         textAlign: left
   - type: LabelsSection
-    title: Appreciate your help; I promise you'll be rewarded
+    title: found my item?
     subtitle: You can get in touch with below details.
     items:
       - type: Label
