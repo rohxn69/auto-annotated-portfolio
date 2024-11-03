@@ -11,9 +11,6 @@ sections:
         url: >-
           https://cryptpad.fr/pad/#/2/pad/view/pEYbU87kkmrbuggq2Dycf-HPUIwn6znthgznle+2zdc/p/
       - type: Label
-        label: React
-        url: ''
-      - type: Label
         label: Microsoft Office
         url: ''
       - type: Label
