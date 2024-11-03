@@ -3,7 +3,7 @@ type: PageLayout
 title: Thanks for helping me
 sections:
   - type: LabelsSection
-    title: EMERGENCY
+    title: EMERGENCY!?
     subtitle: Tap the button below for emergency contact
     items:
       - type: Label
