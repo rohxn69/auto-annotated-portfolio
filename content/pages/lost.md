@@ -4,7 +4,7 @@ title: Thanks for helping me
 sections:
   - type: LabelsSection
     title: EMERGENCY?
-    subtitle: The section subtitle
+    subtitle: Tap the button below for emergency contact
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
