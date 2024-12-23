@@ -4,7 +4,7 @@ title: Thanks for helping me
 sections:
   - type: LabelsSection
     title: found my item?
-    subtitle: Thanks a lot; I will give you a reward.
+    subtitle: Thanks a lot; I will give you a reward when you return ;)
     items:
       - type: Label
         label: Call me +91 8088593510
