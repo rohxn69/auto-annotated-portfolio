@@ -4,7 +4,9 @@ title: Thanks for helping me
 sections:
   - type: LabelsSection
     title: EMERGENCY!?
-    subtitle: 'Tap the button below for emergency contact:'
+    subtitle: >-
+      Tap the button below for emergency contact: If you found my stuffs scroll
+      down a bit. Thank you
     items:
       - type: Label
         label: 'password hint: tattoo on my forearm'
