@@ -3,16 +3,21 @@ type: PageLayout
 title: Thanks for helping me
 sections:
   - type: LabelsSection
-    title: EMERGENCY!?
-    subtitle: 'Tap the button below for emergency contact      '
+    title: found my item?
+    subtitle: You can get in touch with below details; You will get a reward.
     items:
       - type: Label
-        label: 'password hint: tattoo on my forearm'
-        url: >-
-          https://cryptpad.fr/pad/#/2/pad/view/pEYbU87kkmrbuggq2Dycf-HPUIwn6znthgznle+2zdc/p/
+        label: Call me +91 8088593510
+        url: 'tel:8088593510'
       - type: Label
-        label: ''
-        url: ''
+        label: Call me also at +91 9844737526
+        url: 'tel:919844737526'
+      - type: Label
+        label: Instagram
+        url: 'https://www.instagram.com/rohanshxtty/'
+      - type: Label
+        label: Email
+        url: 'mailto:bovine-woozy-tutor@duck.com'
     colors: colors-f
     elementId: ''
     styles:
@@ -30,21 +35,16 @@ sections:
       subtitle:
         textAlign: left
   - type: LabelsSection
-    title: found my item?
-    subtitle: You can get in touch with below details; You will get a reward.
+    title: EMERGENCY!?
+    subtitle: 'Tap the button below for emergency contact      '
     items:
       - type: Label
-        label: Call me +91 8088593510
-        url: 'tel:8088593510'
+        label: 'password hint: tattoo on my forearm'
+        url: >-
+          https://cryptpad.fr/pad/#/2/pad/view/pEYbU87kkmrbuggq2Dycf-HPUIwn6znthgznle+2zdc/p/
       - type: Label
-        label: Call me also at +91 9844737526
-        url: 'tel:919844737526'
-      - type: Label
-        label: Instagram
-        url: 'https://www.instagram.com/rohanshxtty/'
-      - type: Label
-        label: Email
-        url: 'mailto:bovine-woozy-tutor@duck.com'
+        label: ''
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
