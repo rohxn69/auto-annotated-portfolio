@@ -11,7 +11,7 @@ sections:
         url: >-
           https://cryptpad.fr/pad/#/2/pad/view/pEYbU87kkmrbuggq2Dycf-HPUIwn6znthgznle+2zdc/p/
       - type: Label
-        label: Label title
+        label: ''
         url: ''
     colors: colors-f
     elementId: ''
